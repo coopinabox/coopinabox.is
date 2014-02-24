@@ -1,13 +1,13 @@
-# yourproject.is
+# coopinabox.is
 
-website for [yourproject](http://yourproject.is) built using [DocPad](http://docpad.org).
+website for [coopinabox](http://coopinabox.is) built using [DocPad](http://docpad.org).
 
 ## how to
 
 ### install
 
 ```
-git clone https://github.com/yourname/yourproject.is
+git clone https://github.com/coopinabox/coopinabox.is
 npm install
 ```
 

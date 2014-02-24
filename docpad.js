@@ -5,8 +5,8 @@ require('longjohn');
 module.exports = {
   templateData: {
     site: {
-      title: "yourproject is",
-      description: "a really awesome idea!",
+      title: "Coop-in-a-Box is",
+      description: "turnkey technology for cooperatives",
     },
   },
   detectEncoding: true,
@@ -46,8 +46,8 @@ module.exports = {
       },
     },
     ghpages: {
-      deployRemote: 'origin',
-      deployBranch: 'gh-pages',
+      deployRemote: 'deploy',
+      deployBranch: 'master',
     },
   },
   environments: {
